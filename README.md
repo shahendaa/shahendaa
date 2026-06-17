@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shahenda 👋
 
-<!--
-**shahendaa/shahendaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
+### Skills
+- HTML5
+- CSS3
+- Bootstrap 5
+- Git & GitHub
+- Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+#### 🌐 Portfolio Website
+[Live Demo](https://portfolio-fhon.vercel.app/)
+
+#### 🏠 Dream Homes Real Estate
+[Live Demo](https://dream-homes-orbcq5avw-shahendaas-projects.vercel.app/)
+
+#### 🚀 Smart Product Landing Page
+[Live Demo](https://landing-page-jet-kappa.vercel.app/)
+
+### Contact
+
+- GitHub: https://github.com/shahendaa
